@@ -1,0 +1,23 @@
+{
+  "name": "ArtQRCode",
+  "version": "1.0.0",
+  "description": "![image](http://wx1.sinaimg.cn/large/a73bc6a1ly1fz9rutoazqj21kw0lon0r.jpg)",
+  "main": "artqrcode.js",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "gh": "node build/gh.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/252860883/ArtQRCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/252860883/ArtQRCode/issues"
+  },
+  "homepage": "https://github.com/252860883/ArtQRCode#readme"
+}
